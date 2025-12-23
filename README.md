@@ -2,7 +2,7 @@
 
 A beautiful, frameless calculator app inspired by iOS, built with Python and PyQt6.
 
-<img src="https://support.apple.com/guide/iphone/use-the-basic-calculator-iph1ac0b5cc/ios" alt="Calculator App" width="300"/>
+<img src="https://help.apple.com/assets/68FABD5B6EF504342600E3E5/68FABD675A41CCC23909151C/en_US/fdfd728ae7af53da489f06a4dcb0b8c0.png" alt="Calculator App"/>
 
 ## Features
 - **Design**: Clean, dark mode aesthetic with rounded corners and no window borders.
